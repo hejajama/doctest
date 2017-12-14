@@ -1,5 +1,3 @@
-sys.path.append(".")
-import code
 .. _my-reference-label:
 
 Feature A
@@ -25,7 +23,8 @@ Subsection 2
 
 Hello there!
 
-SUbsec3
+Subsec3
 ----------
-.. autofunction:: code.summa
+
+Uutta tekstiä, katotaan päivittyykö!¨
 
